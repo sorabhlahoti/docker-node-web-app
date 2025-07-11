@@ -1,4 +1,3 @@
-```markdown
 # Node.js Docker App
 
 This project demonstrates how to containerize a simple Node.js application using Docker.
